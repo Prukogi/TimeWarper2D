@@ -1,2 +1,2 @@
 # TimeWarper2D
-En Timewarper2D viajas en el tiempo para asegurar que todos los portales funcionen correctamente. Sube con tu jetpack, gestiona el combustible y evita los obstáculos en este desafiante juego de plataformas 2D vertical.
+In Timewarper2D, you travel through time to ensure all portals are working correctly. Ascend with your jetpack, manage your fuel, and avoid obstacles in this challenging 2D vertical platformer.
